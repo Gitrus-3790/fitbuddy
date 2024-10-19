@@ -14,16 +14,6 @@ import 'package:http/http.dart' as http;
 
 import 'src/sign_in_button.dart';
 
-
-// const List<String> scopes = <String>[
-//   'email',
-//   'https://www.googleapis.com/auth/contacts.readonly',
-// ];
-//
-// GoogleSignIn _googleSignIn = GoogleSignIn(
-//   scopes: scopes,
-// );
-
 void main() {
   runApp(
     MaterialApp(
