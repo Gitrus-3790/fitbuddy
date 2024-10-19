@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "874059672313",
+    "project_id": "fitbuddy-48788",
+    "storage_bucket": "fitbuddy-48788.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874059672313:android:06d56e7c6438c166985028",
+        "android_client_info": {
+          "package_name": "com.example.fitbuddy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj_Jte7-zQEuzIcD7H3_fF6J30lEPId74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
